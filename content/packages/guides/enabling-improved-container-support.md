@@ -18,7 +18,7 @@ versions:
 
 Once {% data variables.product.prodname_github_container_registry %} is enabled for your personal user account, you can publish containers to {% data variables.product.prodname_github_container_registry %} owned by your user account.
 
-To use {% data variables.product.prodname_github_container_registry %} within an organization, the organization owner must enable the feature for organization members.
+To use {% prodname_github_container_registry %} within an organization, the organization owner must enable the feature for organization members.
 
 {% data reusables.feature-preview.feature-preview-setting  %}
 2. On the left, select "Improved container support", then click **Enable**.
